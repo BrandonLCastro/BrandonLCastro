@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/BrandonLCastro
+[linkedin]: https://linkedin.com/in/brandonleecastro26
